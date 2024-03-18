@@ -1,2 +1,2 @@
-# ProyectoGrupo3
-Proyecto Computacion Grafica y Visual
+# ProyectoFinalGrupo3
+proyecto 2d parcial grupo3 
